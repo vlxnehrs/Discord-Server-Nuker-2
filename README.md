@@ -5,4 +5,4 @@ enter bot token in json file and the rest of the stuff
 done
 
 # credits
-$$ Easy#3574
+!! qrs v2#7310
